@@ -135,6 +135,6 @@ dmypy.json
 test.py
 data/maps.csv
 data/race.csv
-read_n_transform_data.ipynb
-race_reader.ipynb
+transform_data.ipynb
+reader.ipynb
 
