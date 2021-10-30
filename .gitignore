@@ -133,7 +133,6 @@ dmypy.json
 
 # custom
 test.py
-data/maps.csv
 data/race.csv
 transform_data.ipynb
 reader.ipynb
